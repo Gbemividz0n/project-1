@@ -14,3 +14,5 @@
 - [Install oppenssh](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
 - [openssh-key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+
+- [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
